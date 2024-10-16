@@ -30,11 +30,11 @@ To run this project, you will need the following:
    ```
 
 ## Usage
-1. Update the `params` dictionary in `ultra.py` with the desired hotel details, including check-in and check-out dates, number of guests, and location.
+1. Update the `params` dictionary and `hotel_id` in `main.py` with the desired hotel details, including check-in and check-out dates, number of guests, and location.
 
 2. Run the script to start scraping:
    ```sh
-   python ultra.py
+   python main.py
    ```
 
 3. After the scraping is complete, the extracted data will be saved in a JSON file named in the format `OUTPUT_<hotel_id>_<checkIn>_<checkOut>_<adults>.json`.
