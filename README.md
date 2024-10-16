@@ -16,8 +16,8 @@ To run this project, you will need the following:
 ## Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/hotel-availability-scraper.git
-   cd hotel-availability-scraper
+   git clone https://github.com/Kigulx/fornova-task2.git
+   cd fornova-task2
    ```
 2. Create a virtual environment and activate it:
    ```sh
@@ -30,21 +30,52 @@ To run this project, you will need the following:
    ```
 
 ## Usage
-1. Update the `params` dictionary and `hotel_id` in `main.py` with the desired hotel details, including check-in and check-out dates, number of guests, and location.
+1. Prepare a CSV file (e.g., test.csv) with columns for hotel_id, check_in, and check_out. The CSV file should include multiple hotel IDs and date combinations, for example:
+
+test.csv:
+
+   ```csv
+   hotel_id,check_in,check_out
+   18482,2024-10-30,2024-10-31
+   18483,2024-11-01,2024-11-02
+   18484,2024-11-03,2024-11-04
+   ```
+Run the script:
 
 2. Run the script to start scraping:
    ```sh
-   python main.py
+   python fornova_task.py test.csv
    ```
+The script will iterate over each row in the CSV file, scrape the hotel availability data for each combination, and save the results in separate JSON files.
 
 3. After the scraping is complete, the extracted data will be saved in a JSON file named in the format `OUTPUT_<hotel_id>_<checkIn>_<checkOut>_<adults>.json`.
+
+## Usage without a Virtual Environment
+
+If you prefer not to use a virtual environment, you can install all the required packages globally. Here are the steps you need to follow:
+
+1. Ensure you have Python and pip installed. To check, run the following commands in your terminal:
+   ```sh
+   python --version
+   pip --version
+2. Install the required packages globally:
+   ```sh
+   pip install selenium
+3. Download and install ChromeDriver, ensuring that its version matches your Chrome browser version. Place the chromedriver executable in a directory included in your system's PATH, or specify the path to chromedriver in your code.
+4. Run the script to start scraping:
+   ```sh
+   python fornova_task.py test.csv
+   ```
 
 ## Project Structure
 - `fornova_task.py`: The main script to initiate the scraping process.
 - `json_formatter.py`: Contains the `extract_rates` function, which processes the extracted JSON data.
 - `requirements.txt`: Lists the required Python packages for the project.
-
+- `test.csv`: A sample CSV file with three example hotel ID and date combinations for testing.
+- `OUTPUT_18482_2024-10-29_2024-10-30_2.json`: Example of JSON output.
 ## Important Notes
 - Make sure you have the correct version of ChromeDriver installed to match your browser version.
 - This script uses Selenium, which involves browser automation. Be mindful of Qantas' website terms of service.
+## TODO
+- Implement proxy support to handle requests more efficiently and avoid IP blocking.
 
