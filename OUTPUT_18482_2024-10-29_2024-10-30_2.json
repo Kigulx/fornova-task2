@@ -1,0 +1,472 @@
+{
+  "rates": [
+    {
+      "Room_name": "1 Double Bed",
+      "Rate_name": "Internet Included - Non-refundable",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 00:00 (GMT+01:00) on Sep 18, 2024 are subject to a 100% cost of stay penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 314.35,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "1 Double Bed",
+      "Rate_name": "Internet Included",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 14:00 (GMT+00:00) on Oct 28, 2024 are subject to a 1 night room & tax penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 349.27,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "1 Double Bed",
+      "Rate_name": "Breakfast Included, Internet Included - Non-refundable",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 00:00 (GMT+01:00) on Sep 18, 2024 are subject to a 100% cost of stay penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 372.89,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "1 Double Bed",
+      "Rate_name": "Internet Included, Breakfast Included",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 14:00 (GMT+00:00) on Oct 28, 2024 are subject to a 1 night room & tax penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 407.8,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "2 Twin Beds",
+      "Rate_name": "Internet Included - Non-refundable",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 00:00 (GMT+01:00) on Sep 18, 2024 are subject to a 100% cost of stay penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 331.9,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "2 Twin Beds",
+      "Rate_name": "Internet Included",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 14:00 (GMT+00:00) on Oct 28, 2024 are subject to a 1 night room & tax penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 368.78,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "2 Twin Beds",
+      "Rate_name": "Breakfast Included, Internet Included - Non-refundable",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 00:00 (GMT+01:00) on Sep 18, 2024 are subject to a 100% cost of stay penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 390.44,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "2 Twin Beds",
+      "Rate_name": "Internet Included, Breakfast Included",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 14:00 (GMT+00:00) on Oct 28, 2024 are subject to a 1 night room & tax penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 427.32,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "1 Double Bed",
+      "Rate_name": "Internet Included - Non-refundable",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 00:00 (GMT+01:00) on Sep 18, 2024 are subject to a 100% cost of stay penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 349.47,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "1 Double Bed",
+      "Rate_name": "Internet Included",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 14:00 (GMT+00:00) on Oct 28, 2024 are subject to a 1 night room & tax penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 388.29,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "1 Double Bed",
+      "Rate_name": "Breakfast Included, Internet Included - Non-refundable",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 00:00 (GMT+01:00) on Sep 18, 2024 are subject to a 100% cost of stay penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 408.0,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "1 Double Bed",
+      "Rate_name": "Internet Included, Breakfast Included",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 14:00 (GMT+00:00) on Oct 28, 2024 are subject to a 1 night room & tax penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 446.83,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "1 Double Bed",
+      "Rate_name": "Internet Included - Non-refundable",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 00:00 (GMT+01:00) on Sep 18, 2024 are subject to a 100% cost of stay penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 349.47,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "1 Double Bed",
+      "Rate_name": "Internet Included",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 14:00 (GMT+00:00) on Oct 28, 2024 are subject to a 1 night room & tax penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 388.29,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "1 Double Bed",
+      "Rate_name": "Breakfast Included, Internet Included - Non-refundable",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 00:00 (GMT+01:00) on Sep 18, 2024 are subject to a 100% cost of stay penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 408.0,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "1 Double Bed",
+      "Rate_name": "Internet Included, Breakfast Included",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 14:00 (GMT+00:00) on Oct 28, 2024 are subject to a 1 night room & tax penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 446.83,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "1 Double Bed",
+      "Rate_name": "Internet Included - Non-refundable",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 00:00 (GMT+01:00) on Sep 18, 2024 are subject to a 100% cost of stay penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 367.03,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "1 Double Bed",
+      "Rate_name": "Internet Included",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 14:00 (GMT+00:00) on Oct 28, 2024 are subject to a 1 night room & tax penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 407.8,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "1 Double Bed",
+      "Rate_name": "Breakfast Included, Internet Included - Non-refundable",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 00:00 (GMT+01:00) on Sep 18, 2024 are subject to a 100% cost of stay penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 425.57,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "1 Double Bed",
+      "Rate_name": "Internet Included, Breakfast Included",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 14:00 (GMT+00:00) on Oct 28, 2024 are subject to a 1 night room & tax penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 466.34,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "2 Twin Beds",
+      "Rate_name": "Internet Included - Non-refundable",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 00:00 (GMT+01:00) on Sep 18, 2024 are subject to a 100% cost of stay penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 402.16,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "2 Twin Beds",
+      "Rate_name": "Internet Included",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 14:00 (GMT+00:00) on Oct 28, 2024 are subject to a 1 night room & tax penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 446.83,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "2 Twin Beds",
+      "Rate_name": "Breakfast Included, Internet Included - Non-refundable",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 00:00 (GMT+01:00) on Sep 18, 2024 are subject to a 100% cost of stay penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 460.7,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "2 Twin Beds",
+      "Rate_name": "Internet Included, Breakfast Included",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 14:00 (GMT+00:00) on Oct 28, 2024 are subject to a 1 night room & tax penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 505.37,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "1 Queen Bed",
+      "Rate_name": "Internet Included - Non-refundable",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 00:00 (GMT+01:00) on Sep 18, 2024 are subject to a 100% cost of stay penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 402.16,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "1 Queen Bed",
+      "Rate_name": "Internet Included",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 14:00 (GMT+00:00) on Oct 28, 2024 are subject to a 1 night room & tax penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 446.83,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "1 Queen Bed",
+      "Rate_name": "Breakfast Included, Internet Included - Non-refundable",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 00:00 (GMT+01:00) on Sep 18, 2024 are subject to a 100% cost of stay penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 460.7,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "1 Queen Bed",
+      "Rate_name": "Internet Included, Breakfast Included",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 14:00 (GMT+00:00) on Oct 28, 2024 are subject to a 1 night room & tax penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 505.37,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "1 Queen Bed",
+      "Rate_name": "Internet Included - Non-refundable",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 00:00 (GMT+01:00) on Sep 18, 2024 are subject to a 100% cost of stay penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 402.16,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "1 Queen Bed",
+      "Rate_name": "Internet Included",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 14:00 (GMT+00:00) on Oct 28, 2024 are subject to a 1 night room & tax penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 446.83,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "1 Queen Bed",
+      "Rate_name": "Breakfast Included, Internet Included - Non-refundable",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 00:00 (GMT+01:00) on Sep 18, 2024 are subject to a 100% cost of stay penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 460.7,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "1 Queen Bed",
+      "Rate_name": "Internet Included, Breakfast Included",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 14:00 (GMT+00:00) on Oct 28, 2024 are subject to a 1 night room & tax penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 505.37,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "1 Double Bed",
+      "Rate_name": "Internet Included - Non-refundable",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 00:00 (GMT+01:00) on Sep 18, 2024 are subject to a 100% cost of stay penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 421.47,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "1 Double Bed",
+      "Rate_name": "Internet Included",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 14:00 (GMT+00:00) on Oct 28, 2024 are subject to a 1 night room & tax penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 468.3,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "1 Double Bed",
+      "Rate_name": "Breakfast Included, Internet Included - Non-refundable",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 00:00 (GMT+01:00) on Sep 18, 2024 are subject to a 100% cost of stay penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 480.01,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "1 Double Bed",
+      "Rate_name": "Internet Included, Breakfast Included",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 14:00 (GMT+00:00) on Oct 28, 2024 are subject to a 1 night room & tax penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 526.83,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "2 Twin Beds",
+      "Rate_name": "Internet Included - Non-refundable",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 00:00 (GMT+01:00) on Sep 18, 2024 are subject to a 100% cost of stay penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 454.83,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "2 Twin Beds",
+      "Rate_name": "Internet Included",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 14:00 (GMT+00:00) on Oct 28, 2024 are subject to a 1 night room & tax penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 505.37,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "2 Twin Beds",
+      "Rate_name": "Breakfast Included, Internet Included - Non-refundable",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 00:00 (GMT+01:00) on Sep 18, 2024 are subject to a 100% cost of stay penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 513.37,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "2 Twin Beds",
+      "Rate_name": "Internet Included, Breakfast Included",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 14:00 (GMT+00:00) on Oct 28, 2024 are subject to a 1 night room & tax penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 563.92,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "1 Queen Bed",
+      "Rate_name": "Internet Included - Non-refundable",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 00:00 (GMT+01:00) on Sep 18, 2024 are subject to a 100% cost of stay penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 454.83,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "1 Queen Bed",
+      "Rate_name": "Internet Included",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 14:00 (GMT+00:00) on Oct 28, 2024 are subject to a 1 night room & tax penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 505.37,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "1 Queen Bed",
+      "Rate_name": "Breakfast Included, Internet Included - Non-refundable",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 00:00 (GMT+01:00) on Sep 18, 2024 are subject to a 100% cost of stay penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 513.37,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "1 Queen Bed",
+      "Rate_name": "Internet Included, Breakfast Included",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 14:00 (GMT+00:00) on Oct 28, 2024 are subject to a 1 night room & tax penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 563.92,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "1 Double Bed",
+      "Rate_name": "Internet Included - Non-refundable",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 00:00 (GMT+01:00) on Sep 18, 2024 are subject to a 100% cost of stay penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 454.83,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "1 Double Bed",
+      "Rate_name": "Internet Included",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 14:00 (GMT+00:00) on Oct 28, 2024 are subject to a 1 night room & tax penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 505.37,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "1 Double Bed",
+      "Rate_name": "Breakfast Included, Internet Included - Non-refundable",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 00:00 (GMT+01:00) on Sep 18, 2024 are subject to a 100% cost of stay penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 513.37,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "1 Double Bed",
+      "Rate_name": "Internet Included, Breakfast Included",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 14:00 (GMT+00:00) on Oct 28, 2024 are subject to a 1 night room & tax penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 563.92,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "1 Double Bed",
+      "Rate_name": "Internet Included",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 14:00 (GMT+00:00) on Oct 28, 2024 are subject to a 1 night room & tax penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 505.37,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "1 Double Bed",
+      "Rate_name": "Internet Included - Non-refundable",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 00:00 (GMT+01:00) on Sep 18, 2024 are subject to a 100% cost of stay penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 507.52,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "1 Double Bed",
+      "Rate_name": "Internet Included, Breakfast Included",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 14:00 (GMT+00:00) on Oct 28, 2024 are subject to a 1 night room & tax penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 563.92,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    },
+    {
+      "Room_name": "1 Double Bed",
+      "Rate_name": "Breakfast Included, Internet Included - Non-refundable",
+      "Number_of_Guests": 2,
+      "Cancellation_Policy": "This property imposes the following penalties to its customers that Qantas Hotels is required to pass on: Cancellations or changes made after 00:00 (GMT+01:00) on Sep 18, 2024 are subject to a 100% cost of stay penalty. If you fail to check-in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property of up to 100% of the booking value. If you redeem Qantas Points or a Qantas Voucher please refer to the relevant Important Information and Terms & Conditions on the checkout page.",
+      "Price": 566.05,
+      "Top_Deal": true,
+      "Currency": "AUD"
+    }
+  ]
+}
