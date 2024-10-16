@@ -78,4 +78,6 @@ If you prefer not to use a virtual environment, you can install all the required
 - This script uses Selenium, which involves browser automation. Be mindful of Qantas' website terms of service.
 ## TODO
 - Implement proxy support to handle requests more efficiently and avoid IP blocking.
+## Disclaimer
+This project is for educational purposes only. Scraping websites without permission may be against their terms of service.
 
