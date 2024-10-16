@@ -40,7 +40,7 @@ To run this project, you will need the following:
 3. After the scraping is complete, the extracted data will be saved in a JSON file named in the format `OUTPUT_<hotel_id>_<checkIn>_<checkOut>_<adults>.json`.
 
 ## Project Structure
-- `ultra.py`: The main script to initiate the scraping process.
+- `fornova_task.py`: The main script to initiate the scraping process.
 - `json_formatter.py`: Contains the `extract_rates` function, which processes the extracted JSON data.
 - `requirements.txt`: Lists the required Python packages for the project.
 
@@ -48,8 +48,3 @@ To run this project, you will need the following:
 - Make sure you have the correct version of ChromeDriver installed to match your browser version.
 - This script uses Selenium, which involves browser automation. Be mindful of Qantas' website terms of service.
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
-## Disclaimer
-This project is for educational purposes only. Scraping websites without permission may be against their terms of service.
